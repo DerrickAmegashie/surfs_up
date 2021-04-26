@@ -23,7 +23,7 @@ Finally, December had the lowest min temp which was 56.
 <img width="485" alt="Screen Shot 2021-04-22 at 12 23 22 PM" src="https://user-images.githubusercontent.com/78401776/116017829-a735b580-a60e-11eb-84c9-e62afa73fc71.png">
 
 
-###Summary of Surfs_up
+### Summary of Surfs_up
 The results show that: 
 
 June’s numbers were higher in relation to the rest of the data than December when it came to percentiles.
