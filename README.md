@@ -2,9 +2,9 @@
 
 ## Overview of Surfs_Up_Analysis
 
-The project involved using SQLite, SQLAlchemy and flask for statistical analysis. It was my desire  to develop a surf n  shake shop to  sell ice cream and surf boards to locals and tourist. I reached out to an investor (WAV) to help me achieve this dream of mine. He has once concern about the weather, so he needed me to provide weather analysis on a data he has of where I want to open by shop which is the island of Oahu.
+The project involved using SQLite, SQLAlchemy and flask for statistical analysis. Ken want to develop a surf n  shake shop to  sell ice cream and surf boards to locals and tourist. Ken reached out to an investor (WAV) to help him achieve this dream of mine. Before investing, the investor has concerns about the weather, so he needed me to provide weather analysis on a data of the said location of the shop which is the island of Oahu.
 
-Once I completed the above task, I was further tasked to provide more information about the temperature trends. Specifically the temperature data for the months of June and December in Oahu. The reason for this task was to determine if the surf and ice cream shop business is sustainable year round.
+Once I completed the above task, I was further tasked to provide additional information about the temperature trends. Specifically the temperature data for the months of June and December in Oahu. The reason for this task was to determine if the surf and ice cream shop business is sustainable year round.
 ## Surfs_Up Results
 
 ###Results
